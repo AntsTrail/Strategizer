@@ -1,2 +1,5 @@
 # the envirnoment variable
 .env
+
+.env.development
+.env.production
