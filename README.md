@@ -1,1 +1,3 @@
 # Strategizer
+
+checking the issues
