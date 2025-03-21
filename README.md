@@ -8,3 +8,9 @@ This project uses Poetry for dependency management.
 1. Install Poetry: https://python-poetry.org/docs/#installation
 2. Run: `poetry install`
 3. Activate environment: `poetry shell`
+
+## The whole app is made with:
+- LangChain
+- LangGraph
+- LangSmith
+- LangServe
