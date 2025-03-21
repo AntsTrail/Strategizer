@@ -3,3 +3,13 @@
 
 .env.development
 .env.production
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore other common Python artifacts (optional, based on your needs)
+*.pyo
+*.pyd
