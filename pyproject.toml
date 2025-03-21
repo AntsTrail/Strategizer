@@ -1,0 +1,17 @@
+[project]
+name = "strategizer"
+version = "0.1.0"
+description = "An app for financial analysis of companies using the data analysis functions."
+authors = [
+    {name = "Abdu Radi"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy (>=2.2.4,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
